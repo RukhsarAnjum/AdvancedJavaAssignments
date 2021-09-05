@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day1.iml" filepath="$PROJECT_DIR$/Day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefaultMethod/DefaultMethod.iml" filepath="$PROJECT_DIR$/DefaultMethod/DefaultMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynaminStream/DynaminStream.iml" filepath="$PROJECT_DIR$/DynaminStream/DynaminStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodRefernce/MethodRefernce.iml" filepath="$PROJECT_DIR$/MethodRefernce/MethodRefernce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamndaExpression/lamndaExpression.iml" filepath="$PROJECT_DIR$/lamndaExpression/lamndaExpression.iml" />
+    </modules>
+  </component>
+</project>
