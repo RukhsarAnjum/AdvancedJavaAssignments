@@ -22,7 +22,7 @@ public class CustomerApp {
 				int option= Integer.parseInt(scanner.nextLine());
 				switch(option) {
 				case 1: System.out.println("Enter customer id: ");
-						int customerId= Integer.pa(scanner.nextLine());
+						int customerId= Integer.parseInt(scanner.nextLine());
 						Customer customer= getCustomerById(customerId);
 						if(customer!=null) {
 							System.out.println(customer);
