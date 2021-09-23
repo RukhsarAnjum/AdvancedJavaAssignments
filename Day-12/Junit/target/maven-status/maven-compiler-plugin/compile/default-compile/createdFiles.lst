@@ -1,0 +1,8 @@
+dao\UserDaoImpl.class
+utility\JunitExample.class
+dao\ResultRepository.class
+entities\User.class
+service\UserService.class
+dao\UserDao.class
+entities\Person.class
+service\UserServiceImpl.class

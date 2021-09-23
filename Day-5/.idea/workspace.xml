@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36d96111-6cdb-4afa-bb42-7e38befa6007" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day3-4/jdbcapp/src/main/java/com/jdbcapp/trg/client/CustomerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day3-4/jdbcapp/src/main/java/com/jdbcapp/trg/client/CustomerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day-13/Inner class/src/main/java/innerclass/ParentInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-11/ProductExample/src/main/java/com/designpattern/chidren/builder/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-11/ProductExample/src/main/java/com/designpattern/chidren/builder/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainer folder" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring-Boot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practice" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
